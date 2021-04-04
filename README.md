@@ -29,8 +29,8 @@ Plataformas: Discord e GitHub
 <th title="Field #3">Dia</th>
 <th title="Field #4">Assunto/Atividade</th>
 </tr></thead>
-<tbody><tr>
-<td align="right">1</td>
+<tbody><tr style="background-color: #f1f1c1">
+<td align="right" >1</td>
 <td>09/03/2020</td>
 <td>Seg</td>
 <td>Apresentação do programa da disciplina e do plano de ensino. <br>
