@@ -11,7 +11,13 @@ Horários: segundas e quartas, das 14:30 às 16:30
 Plataformas: Discord e GitHub  
 
 ## Sobre a disciplina
- - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
+ - [Ementário](https://www.ufsm.br/ementario/disciplinas/elc117): informações sobre objetivos, programa e bibliografia.
+ - Disciplina teórico-prática, com atividades síncronas e assíncronas. 
+ - Usaremos a estratégia de "flipped classroom", em que vocês consultam o material indicado antes da aula e usamos os encontros síncronos para resolver dúvidas e fazer exercícios práticos.
+ - O material teórico de cada aula será disponibilizado com antecedência em formatos variados (slides, vídeos, programas, textos, etc.).
+ - Todo o material da disciplina estará no GitHub e as entregas de exercícios e trabalhos também serão no GitHub. 
+ - Usaremos Discord para interação síncrona/assíncrona por chat/áudio/vídeo. 
+
  <!--
  - [Planejamento](https://docs.google.com/spreadsheets/d/1SAG5XDup7IAMEttgnsr3c_gx9kSYLDo4X-sBcCHJ8_o/edit?usp=sharing): planejamento de atividades de cada aula.
  - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSezBHYhYEVbOz-QTuPLERAVOA-5zjAPfrzCtPqyuNY6s6d3VQ/viewform): formulário para responder logo depois da primeira aula.
@@ -19,9 +25,9 @@ Plataformas: Discord e GitHub
  
 ## Aulas
 
+O cronograma de aulas abaixo serve como referência, mas estará em constante atualização conforme o andamento das atividades síncronas e assíncronas.
 
-**ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento inicial foi alterado e estamos usando um servidor no Discord para interagir por áudio e chat. Os dias e horários de aula continuam sendo uma referência para a disciplina, sendo que as atividades de cada aula estão registradas na tabela abaixo. Cada nova aula é planejada em função do progresso da turma observado no Discord.
-
+O material para cada aula será disponibilizado **antes da aula** para consulta **assíncrona**.
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Aula</th>
@@ -29,233 +35,493 @@ Plataformas: Discord e GitHub
 <th title="Field #3">Dia</th>
 <th title="Field #4">Assunto/Atividade</th>
 </tr></thead>
-<tbody><tr style="background-color: #f1f1c1">
-<td align="right" >1</td>
-<td>09/03/2020</td>
-<td>Seg</td>
-<td>Apresentação do programa da disciplina e do plano de ensino. <br>
- <a href="https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing">Introdução à disciplina</a>.
- </td>
-</tr>
+<tbody>
+
 <tr>
-<td align="right">2</td>
-<td>11/03/2020</td>
+<td align="right">1</td>
+<td>19/05/2021</td>
 <td>Qua</td>
 <td>
- <a href="https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing">Introdução à programação funcional</a>.<br> <a href="https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing">Introdução a funções em linguagem Haskell </a>. 
- </td>
+<ul>
+<li>
+Apresentação do programa da disciplina e do plano de ensino.
+</li>
+<li>
+ Visão geral dos paradigmas de programação.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
-<td align="right">-</td>
-<td>16/03/2020</td>
+<td align="right">2</td>
+<td>24/05/2021</td>
 <td>Seg</td>
- <td>Sem aula. Evento <a href="https://www.ufsm.br/unidades-universitarias/ct/eventos/aula-inaugural-mulheres-na-tecnologia/">Mulheres na Tecnologia</a></td>
+<td>
+<ul>
+<li>
+Fundamentos de linguagens de programação funcional.
+</li>
+<li>
+ Introdução a funções em linguagem Haskell.
+</li>
+<li>
+ Primeira prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">3</td>
-<td>18/03/2020</td>
+<td>26/05/2021</td>
 <td>Qua</td>
- <td>Programação funcional: <a href="praticas/funcional/haskell01">prática com definição de funções e uso de funções de alta ordem</a>.</td>
+<td>
+<ul>
+<li>
+Programação funcional: funções de alta ordem e funções anônimas em Haskell.
+</li>
+<li>
+ Segunda prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">4</td>
-<td>23/03/2020</td>
+<td>31/05/2021</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell02">prática com funções de alta ordem e funções lambda.</a></td>
+<td>
+<ul>
+<li>
+Programação funcional: geração de listas e list comprehension.
+</li>
+<li>
+ Terceira prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">5</td>
-<td>25/03/2020</td>
+<td>02/06/2021</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell03">prática com funções em geral, especialmente funções de alta ordem e funções lambda.</td>
+<td>
+<ul>
+<li>
+Programação funcional: geração de listas e list comprehension.
+</li>
+<li>
+ Quarta prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">6</td>
-<td>30/03/2020</td>
+<td>07/06/2021</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="https://forms.gle/Uq6XmgJJ6HFNsfdC9">questionário</a> sobre os conteúdos vistos até esta data.</td>
+<td>
+<ul>
+<li>
+Programação funcional: uso de let/in, where e I/O.
+</li>
+<li>
+ Quinta prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">7</td>
-<td>01/04/2020</td>
+<td>09/06/2021</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell04">prática sobre tuplas e listas</a>.</td>
+<td>
+<ul>
+<li>
+Programação funcional: condicionais e recursividade.
+</li>
+<li>
+ Sexta prática com Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">8</td>
-<td>06/04/2020</td>
+<td>14/06/2021</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a>. Exemplos: validação de CPF e geração de SVG usando programação funcional.</a></td>
+<td>
+<ul>
+<li>
+Revisão de programação funcional.
+</li>
+<li>
+ Entrega de trabalho de programação em Haskell.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">9</td>
-<td>08/04/2020</td>
+<td>16/06/2021</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension.</a></td>
+<td>
+<ul>
+<li>
+Introdução à programação lógica.
+</li>
+<li>
+ Introdução à linguagem Prolog (fatos, regras, consultas e variáveis).
+</li>
+<li>
+ Primeira prática com Prolog.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">10</td>
-<td>13/04/2020</td>
+<td>21/06/2021</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching.</a></td>
+<td>
+<ul>
+<li>
+Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.
+</li>
+<li>
+ Segunda prática com Prolog.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">11</td>
-<td>15/04/2020</td>
+<td>23/06/2021</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell08">prática de programação funcional com entrega no GitHub Classroom.</a></td>
+<td>
+<ul>
+<li>
+Programação lógica em Prolog: processo de execução de programas Prolog, execução passo-a-passo.
+</li>
+<li>
+ Terceira prática com Prolog.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">12</td>
-<td>20/04/2020</td>
+<td>28/06/2021</td>
 <td>Seg</td>
-<td>Programação funcional: resolução/correção dos exercícios <a href="praticas/funcional/haskell08">haskell08</a> e visão geral do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+<td>
+<ul>
+<li>
+Programação lógica em Prolog: exemplo de programa que simula raciocínio dedutivo.
+</li>
+<li>
+ Quarta prática com Prolog.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">13</td>
-<td>22/04/2020</td>
+<td>30/06/2021</td>
 <td>Qua</td>
-<td>Programação funcional: implementação da primeira parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+<td>
+<ul>
+<li>
+Programação lógica em Prolog: listas, recursão, definindo predicados recursivos.
+</li>
+<li>
+ Quinta prática com Prolog.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">14</td>
-<td>27/04/2020</td>
+<td>05/07/2021</td>
 <td>Seg</td>
-<td>Programação funcional: implementação da primeira parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+<td>
+<ul>
+<li>
+Programação lógica: controle da execução de programas em Prolog.
+</li>
+<li>
+ Sexta prática com Prolog.
+</li>
+<li>
+ Entrega de trabalho de produção de vídeo.
+</li>
+</ul>
+</td>
 </tr>
-<tr>
-<td align="right">-</td>
-<td>28/04/2020</td>
-<td>Qua</td>
-<td>Sem aula.</td>
-</tr>
+
 <tr>
 <td align="right">15</td>
-<td>04/05/2020</td>
-<td>Seg</td>
-<td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
-</tr>
-<td align="right">16</td>
-<td>06/05/2020</td>
+<td>07/07/2021</td>
 <td>Qua</td>
-<td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos.
+</li>
+<li>
+ Primeira prática com Java.
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td>12/07/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores.
+</li>
+<li>
+ Segunda prática com Java.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">17</td>
-<td>11/05/2020</td>
-<td>Seg</td>
- <td><a href="https://docs.google.com/spreadsheets/d/1bHiCVagIcd_5IVAYML_VN3lWYDCfqgFdNzalPeNrUHQ/edit?usp=sharing">Avaliação</a> do trabalho com Haskell. <a href="praticas/funcional/haskell09">Prática com Hlint</a> para melhoria do código do t1.</td>
+<td>14/07/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList.
+</li>
+<li>
+ Terceira prática com Java.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">18</td>
-<td>13/05/2020</td>
-<td>Qua</td>
- <td>Introdução à programação lógica: <a href="https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing">slides</a> ou <a href="https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing">vídeo</a>. Introdução à linguagem Prolog (fatos, regras, consultas e variáveis): <a href="https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing">slides</a>. <a href="praticas/logico/prolog1">Primeira prática com Prolog</a>.</td>
+<td>19/07/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos: herança.
+</li>
+<li>
+ Quarta prática com Java (extends, protected, super).
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">19</td>
-<td>18/05/2020</td>
-<td>Seg</td>
- <td>Programação lógica em Prolog. <a href="praticas/logico/prolog2">Segunda prática com Prolog</a>: consultas e regras, listas e problemas de lógica.</td>
+<td>21/07/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos: polimorfismo.
+</li>
+<li>
+ Quinta prática com Java.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">20</td>
-<td>20/05/2020</td>
-<td>Qua</td>
- <td>Programação lógica em Prolog. <a href="praticas/logico/prolog3">Terceira prática com Prolog</a>: processo de execução de programas Prolog, execução passo-a-passo.</td>
+<td>26/07/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Programação orientada a objetos: classes abstratas e interfaces em Java.
+</li>
+<li>
+ Sexta prática com Java.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">21</td>
-<td>25/05/2020</td>
-<td>Seg</td>
- <td>Programação lógica em Prolog. <a href="praticas/logico/prolog4">Quarta prática com Prolog</a>: exemplo de programa que simula raciocínio dedutivo.</td>
+<td>28/07/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Programação concorrente.
+</li>
+<li>
+ Concorrência em Java.
+</li>
+<li>
+ Prática com classe Thread, interface Runnable, métodos run, start e join.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">22</td>
-<td>27/05/2020</td>
-<td>Qua</td>
- <td>Programação lógica em Prolog: listas e recursão (<a href="https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1MaIl_4LPkijwLZMPRBMR2Ky6v6M_zbo1/view?usp=sharing">vídeo</a>). <a href="praticas/logico/prolog5">Quinta prática com Prolog</a>: definindo predicados recursivos.</td>
+<td>02/08/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Programação concorrente.
+</li>
+<li>
+ Problemas de programação concorrente: sincronização.
+</li>
+<li>
+ Exclusão mútua em Java: prática com synchronized.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">23</td>
-<td>01/06/2020</td>
-<td>Seg</td>
- <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+<td>04/08/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Revisão de programação orientada a objetos e concorrente.
+</li>
+<li>
+ Entrega de trabalho de produção de vídeo.
+</li>
+</ul>
+</td>
 </tr>
+
 <tr>
 <td align="right">24</td>
-<td>03/06/2020</td>
-<td>Qua</td>
- <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+<td>09/08/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+<li>
+ Orientações iniciais.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">25</td>
-<td>08/06/2020</td>
-<td>Seg</td>
- <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+<td>11/08/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">26</td>
-<td>10/06/2020</td>
-<td>Qua</td>
- <td>Programação lógica: desenvolvimento da parte comum (questões de exames) do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+<td>16/08/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">27</td>
-<td>15/06/2020</td>
-<td>Seg</td>
- <td><a href="https://docs.google.com/spreadsheets/d/1bHiCVagIcd_5IVAYML_VN3lWYDCfqgFdNzalPeNrUHQ/edit?usp=sharing">Avaliação</a> do trabalho de Prolog. <a href="https://drive.google.com/file/d/1boq_KQt5vkq1i9A7eqFSKz0KfMmMBQ1U/view?usp=sharing">Áudio</a> com encerramento das unidades sobre programação funcional e lógica. Programação orientada a objetos: <a href="praticas/oo/java1">primeiro contato com Java</a>.</td>
+<td>18/08/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+<li>
+ Primeira entrega.
+</li>
+</ul>
+</td>
 </tr>
-
 
 <tr>
 <td align="right">28</td>
-<td>17/06/2020</td>
-<td>Qua</td>
- <td>Programação orientada a objetos: introdução (<a href="https://docs.google.com/presentation/d/11RNFeJRACGFEfN7-DSoiUpQMqAKnKC2HFdnco_QV6O4/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/18kV6l1WitQPhUNU5aXJU_-b_04JuHVKJ/view?usp=sharing">vídeo</a>), conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>). Segunda <a href="praticas/oo/java2">prática</a> com Java.</td>
+<td>23/08/2021</td>
+<td>Seg</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+</ul>
+</td>
 </tr>
 
 <tr>
 <td align="right">29</td>
-<td>22/06/2020</td>
-<td>Seg</td>
- <td>Programação orientada a objetos: terceira <a href="praticas/oo/java3">prática</a> com Java (classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList).</td>
+<td>25/08/2021</td>
+<td>Qua</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+</ul>
+</td>
 </tr>
-
 
 <tr>
 <td align="right">30</td>
-<td>24/06/2020</td>
-<td>Qua</td>
- <td>Programação orientada a objetos: herança. Quarta <a href="praticas/oo/java4">prática</a> com Java (extends, protected, super).</td>
-</tr>
-
-<tr>
-<td align="right">31</td>
-<td>29/06/2020</td>
+<td>30/08/2021</td>
 <td>Seg</td>
- <td>Programação orientada a objetos: polimorfismo. Quinta <a href="praticas/oo/java5">prática</a> com Java.</td>
+<td>
+<ul>
+<li>
+Desenvolvimento de jogo com framework orientado a objetos.
+</li>
+<li>
+ Segunda entrega.
+</li>
+</ul>
+</td>
 </tr>
 
 
-<tr>
-<td align="right">32</td>
-<td>01/07/2020</td>
-<td>Qua</td>
- <td>Programação orientada a objetos: classes abstratas e interfaces em Java. Sexta <a href="praticas/oo/java6">prática</a> com Java.</td>
-</tr>
 
-<tr>
-<td align="right">33</td>
-<td>0/07/2020</td>
-<td>Seg</td>
- <td>Introdução à programação concorrente. Concorrência em Java: <a href="praticas/oo/java7">prática</a> com classe Thread, interface Runnable, métodos run, start e join.</td>
-</tr>
 
 </tbody></table>
 
@@ -263,22 +529,23 @@ Plataformas: Discord e GitHub
 ## Avaliações
 
  - Primeiro bimestre  
-   - Trabalho Haskell (20%)  
-   - Trabalho Prolog (20%)  
-   - Prova (40%) - ~~29/04~~  
-   - Trabalho tema flexível (20%) - ~~04/05~~  
+   - Práticas de Haskell e Prolog entregues no GitHub (30%)  
+   - Trabalho de programação funcional em Haskell (40%) - 14/06 
+   - Produção de vídeo 1 (15%) - 05/07  
+   - Participação (15%)
  - Segundo bimestre  
-   - Trabalho parte 1 (35%)  
-   - Trabalho parte 2 (35%)  
-   - Prova (30%) - ~~29/06~~  
- - Avaliação final (exame): ~~13/07/2020~~  
+   - Práticas de Java entregues no GitHub (20%)  
+   - Desenvolvimento de jogo com framework orientado a objetos (50%) - 18/08 e 30/08
+   - Produção de vídeo 2 (15%) - 04/08 
+   - Participação (15%)
+ - Avaliação final (exame): 01/09/2021  
 
 
 ## Bibliografia
 
  - Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018. Disponível no [Portal de E-books](https://www.ufsm.br/orgaos-suplementares/biblioteca/e-books-2/) da UFSM.
  - Miran Lipovača. [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
- - Patrick Blackburn, Johan Bos, and Kristina Striegnitz. [Learn Prolog Now](http://www.learnprolognow.org/) (recomendado).
+ - Patrick Blackburn, Johan Bos, and Kristina Striegnitz. [Learn Prolog Now](http://www.learnprolognow.org/).
  - Markus Triska. [The Power of Prolog](https://www.metalevel.at/prolog).
  - Outros materiais de referência indicados nas aulas.
 
