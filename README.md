@@ -48,7 +48,7 @@ Apresentação do programa da disciplina e do plano de ensino.
 </li>
 <li>
  Visão geral dos paradigmas de programação 
- (<a href="https://drive.google.com/file/d/1J0Zs7sdGXD5Wh2ere_2RlpIbyXvROW22/view?usp=sharing">vídeo</a>.
+ (<a href="https://drive.google.com/file/d/1J0Zs7sdGXD5Wh2ere_2RlpIbyXvROW22/view?usp=sharing">vídeo</a>).
 </li>
 </ul>
 </td>
