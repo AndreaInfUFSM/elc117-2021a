@@ -48,7 +48,8 @@ Apresentação do programa da disciplina e do plano de ensino.
 </li>
 <li>
  Visão geral dos paradigmas de programação 
- (<a href="https://drive.google.com/file/d/1J0Zs7sdGXD5Wh2ere_2RlpIbyXvROW22/view?usp=sharing">vídeo</a>).
+ (<a href="https://drive.google.com/file/d/1J0Zs7sdGXD5Wh2ere_2RlpIbyXvROW22/view?usp=sharing">vídeo</a> | 
+  <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">slides</a>).
 </li>
 </ul>
 </td>
@@ -61,10 +62,15 @@ Apresentação do programa da disciplina e do plano de ensino.
 <td>
 <ul>
 <li>
-Fundamentos de linguagens de programação funcional.
+Fundamentos de linguagens de programação funcional  
+ (<a href="https://drive.google.com/file/d/1Z6N21bKhzJ_GpmzfVGjhnzYZs_T-DXIw/view?usp=sharing">vídeo</a> | 
+  <a href="https://docs.google.com/presentation/d/1Qv8AQYNHFgqlsV_n-YUZqXSIDw-grLqv2K7U4gbXlBg/edit?usp=sharing">slides</a>).
 </li>
+ 
 <li>
- Introdução a funções em linguagem Haskell.
+ Introdução a funções em linguagem Haskell 
+ (<a href="https://drive.google.com/file/d/1bNJzVGHOQJV9Tb5IoY1Ks5zpmCigIu30/view?usp=sharing">vídeo</a> | 
+  <a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>)..
 </li>
 <li>
  Primeira prática com Haskell.
