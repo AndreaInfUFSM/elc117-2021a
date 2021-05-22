@@ -73,7 +73,7 @@ Fundamentos de linguagens de programação funcional
   <a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>).
 </li>
 <li>
- Primeira prática com Haskell.
+ <a href="praticas/haskell/haskell01">Primeira prática com Haskell</a>.
 </li>
 </ul>
 </td>
