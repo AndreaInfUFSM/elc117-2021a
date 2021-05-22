@@ -190,7 +190,7 @@ Você vai modificar um código fornecido para gerar uma imagem diferente.
 
 Se tudo deu certo na importação para o Repl.it do seu repositório GitHub desta prática, basta você usar a interface do Repl.it no menu de controle de versão para fazer commit e push para o GitHub.
 
-Para conferir se isso funcionou, abra a interface web do GitHub e procure seu repositório. Os arquivos editados no Repl.it devem estar lá após o push.
+Para conferir se isso funcionou, abra a interface web do GitHub e procure seu repositório. Os arquivos editados no Repl.it devem estar lá se o push deu certo.
 
 É bem normal que dê algo errado da primeira vez, então peça ajuda e não tenha medo de recomeçar tudo de novo. Para evitar perder os exercícios feitos enquanto você não tem segurança no uso das ferramentas, salve os arquivos localmente no seu computador. 
 
