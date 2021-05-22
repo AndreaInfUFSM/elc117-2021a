@@ -72,7 +72,7 @@ Estes exercícios são apenas para ambientação com a linguagem. Não precisam 
    isLongWord s = length s > 10
    ```
 
-- Para explorar melhor este código abra o Shell (não a Console) e execute o comando `ghci haskell01quickstart.hs` para abrir o programa no ambiente GHC interativo. Neste ambiente, teste as funções em cada um dos casos abaixo. 
+- Para explorar melhor este código, abra o Shell no Repl.it (não a Console) e execute o comando `ghci haskell01quickstart.hs` para abrir o programa no ambiente GHC interativo, conforme mostrado no vídeo. Neste ambiente interativo, teste as funções em cada um dos casos abaixo. 
 
    ```haskell
    square 2 + 1
