@@ -23,7 +23,7 @@ Então vamos lá, clique aqui para criar seu repositório desta prática de Hask
 
 ## Repl.it
 
-Vamos usar o GHC disponível no Repl.it. Para isso, você vai ter que se cadastrar no Repl.it, preferencialmente com sua conta no GitHub. 
+Vamos usar o GHC disponível no Repl.it. Para isso, você vai ter que se cadastrar no Repl.it, usando sua conta no GitHub. 
 
 Depois de fazer seu cadastro, clique em `+ New repl` para criar um novo projeto no Repl.it e escolha a opção `Import from GitHub`. Selecione o repositório criado automaticamente quando você clicou no link do repositório de entrega. Se der tudo certo, você deverá ver uma lista de arquivos à esquerda, incluindo o arquivo `haskell01quickstart.hs` e outros que usaremos nesta prática.
 
