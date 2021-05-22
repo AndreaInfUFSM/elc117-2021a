@@ -16,7 +16,7 @@ Todos os seus exercícios de Haskell serão entregues no GitHub, portanto você 
 Usaremos sempre o GitHub Classroom, que cria repositórios privados automaticamente, associados a uma lista de estudantes da turma.
 
 Para criar o seu repositório para esta prática de Haskell, você vai clicar no link mais abaixo. 
-O repositório estará acessível na sua lista de repositórios no GitHub e você poderá gerenciá-lo pela interface Web, pelo seu IDE ou por outros clientes Git. Os arquivos dentro do repositório deverão ter **nomes padronizados** seguindo **exatamente** as instruções do roteiro de exercícios.
+O repositório estará acessível na sua lista de repositórios no GitHub e você poderá gerenciá-lo pela interface Web, pelo seu IDE ou por outros clientes Git. Os arquivos dentro do repositório deverão ser mantidos com **nomes padronizados** seguindo **exatamente** as instruções do roteiro de exercícios.
 
 Então vamos lá, clique aqui para criar seu repositório desta prática de Haskell: https://classroom.github.com/a/JYtMyvj7
 
