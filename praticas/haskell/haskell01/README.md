@@ -114,7 +114,7 @@ Esta parte deverá ser feita no arquivo nomeado `haskell01parte1.hs`. No seu pro
 4. Defina uma função `isElderly :: Int -> Bool` que receba uma idade e resulte verdadeiro caso a idade seja maior que 65 anos.
 
 
-5. Defina uma função `htmlItem :: String -> String` que receba uma `String` e adicione tags `<li>` e `<\li>` como prefixo e sufixo, respectivamente. Por exemplo, se a entrada for `"abc"`, a saída será `"<li>abc<\li>"`. Use o operador `++` para concatenar strings (este operador serve para concatenar quaisquer lista do mesmo tipo).
+5. Defina uma função `htmlItem :: String -> String` que receba uma `String` e adicione tags `<li>` e `</li>` como prefixo e sufixo, respectivamente. Por exemplo, se a entrada for `"abc"`, a saída será `"<li>abc</li>"`. Use o operador `++` para concatenar strings (este operador serve para concatenar quaisquer lista do mesmo tipo).
 
 7. Crie uma função `startsWithA :: String -> Bool` que receba uma string e verifique se ela inicia com o caracter `'A'`.
 
