@@ -57,7 +57,7 @@ Depois de fazer seu cadastro, clique em `+ New repl` para criar um novo projeto 
 
 Estes exercícios não precisam ser entregues. São apenas um aquecimento.
 
-1. Copie as funções abaixo para um arquivo de programa Haskell (.hs) ou abra [este programa no Repl.it](https://repl.it/@AndreaSchwertne/haskell02). 
+1. Abra o programa `haskell02warmup.hs` que está no repositório da prática. Observe que ele contém as funções abaixo:
 
    ```haskell  
    square :: Int -> Int
