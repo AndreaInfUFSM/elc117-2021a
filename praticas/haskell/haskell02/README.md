@@ -8,8 +8,13 @@ Nesta aula, vamos trabalhar com funções de alta ordem e com funções anônima
 
 ## Pré-Requisitos 
 
-Antes desta prática, veja o material sobre **funções de alta ordem** ([slides](https://docs.google.com/presentation/d/1BClOOK2cHGd0Q3pXmTd8x5hgXq-hSsxXy1-B_Z3vl8w/edit?usp=sharing) | [vídeo](https://drive.google.com/file/d/1a3Ag7C7jNRaaaK2gp8DM8MYbTAMoWxd-/view?usp=sharing)) e **funções anônimas (lambda)** 
-([slides](https://docs.google.com/presentation/d/127bdelIdlXGHR8tgfBUyL8sadVLEK0aB_wVCMkVhlTs/edit?usp=sharing) | [vídeo](https://drive.google.com/file/d/1VSYOahhtMg0w-PlBwNv--ePezgpGOYoU/view?usp=sharing)).
+Antes desta prática, veja o material sobre 
+**funções de alta ordem** 
+([slides](https://docs.google.com/presentation/d/1BClOOK2cHGd0Q3pXmTd8x5hgXq-hSsxXy1-B_Z3vl8w/edit?usp=sharing) | 
+ [vídeo](https://drive.google.com/file/d/1VSYOahhtMg0w-PlBwNv--ePezgpGOYoU/view?usp=sharing)) e
+**funções anônimas (lambda)** 
+([slides](https://docs.google.com/presentation/d/127bdelIdlXGHR8tgfBUyL8sadVLEK0aB_wVCMkVhlTs/edit?usp=sharing) | 
+ [vídeo](https://drive.google.com/file/d/1a3Ag7C7jNRaaaK2gp8DM8MYbTAMoWxd-/view?usp=sharing)).
 
 
 ## Repositório de Entrega :envelope_with_arrow:
