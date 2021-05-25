@@ -8,18 +8,15 @@ Nesta aula, vamos trabalhar com funções de alta ordem e com funções anônima
 
 ## Pré-Requisitos 
 
-Antes desta prática, veja uma introdução a funções em linguagem Haskell (<a href="https://drive.google.com/file/d/1bNJzVGHOQJV9Tb5IoY1Ks5zpmCigIu30/view?usp=sharing">vídeo</a> | <a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>).
-
-
-
-Nesta aula, vamos trabalhar com [funções de alta ordem](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) e [funções anônimas](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y//edit?usp=sharing), também conhecidas como funções lambda.
+Antes desta prática, veja o material sobre **funções de alta ordem** ([slides](https://docs.google.com/presentation/d/1BClOOK2cHGd0Q3pXmTd8x5hgXq-hSsxXy1-B_Z3vl8w/edit?usp=sharing) | [vídeo](https://drive.google.com/file/d/1a3Ag7C7jNRaaaK2gp8DM8MYbTAMoWxd-/view?usp=sharing)) e **funções anônimas (lambda)** 
+([slides](https://docs.google.com/presentation/d/127bdelIdlXGHR8tgfBUyL8sadVLEK0aB_wVCMkVhlTs/edit?usp=sharing) | [vídeo](https://drive.google.com/file/d/1VSYOahhtMg0w-PlBwNv--ePezgpGOYoU/view?usp=sharing)).
 
 
 ## Repositório de Entrega :envelope_with_arrow:
 
 Você vai continuar entregando seus exercícios no GitHub, como na primeira prática, só em outro repositório.
 
-Clique aqui para criar seu repositório desta prática de Haskell: 
+Clique aqui para criar seu repositório desta prática de Haskell: https://classroom.github.com/a/TL4JscEI
 
 Lembre sempre de fazer **commit e push** para que seus exercícios sejam enviados para o GitHub.
 
