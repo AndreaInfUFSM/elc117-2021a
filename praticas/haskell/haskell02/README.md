@@ -91,7 +91,7 @@ Estes exercícios não precisam ser entregues. São apenas um aquecimento.
    map (\s -> s ++ ", use Haskell!") (filter doutor ["Mr. Hyde", "Dr. Jekyll"])
    ```
    
-3. Abaixo temos operações com listas de tuplas em Haskell. Tuplas agrupam dados que podem ser de diferentes tipos, em um único "registro". É algo um pouco semelhante a `struct` em C. Nos exemplos abaixo, temos 2 tuplas de tipo `(String, Int)`. Uma lista com estas tuplas tem tipo `[(String,Int)]`. Você consegue deduzir o resultado de cada linha abaixo? 
+3. Abaixo temos operações com listas de **tuplas** em Haskell. Tuplas agrupam dados que podem ser de diferentes tipos, em um único "registro". É algo um pouco semelhante a `struct` em C. Nos exemplos abaixo, temos 2 tuplas de tipo `(String, Int)`. Uma lista com estas tuplas tem tipo `[(String,Int)]`. Você consegue deduzir o resultado de cada linha abaixo? 
    ```haskell  
    filter (\(_,idade) -> idade > 60) [("Fulano", 32),("Beltrano", 64)] -- aqui temos 2 tuplas (String,Int)
    sejamFelizes (map (\(nome,_) -> nome) [("Fulano", 32),("Beltrano", 64)]) 
