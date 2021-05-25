@@ -86,10 +86,18 @@ Fundamentos de linguagens de programação funcional
 <td>
 <ul>
 <li>
-Programação funcional: funções de alta ordem e funções anônimas em Haskell.
+Programação funcional: 
+funções de alta ordem 
+(<a href="https://docs.google.com/presentation/d/1BClOOK2cHGd0Q3pXmTd8x5hgXq-hSsxXy1-B_Z3vl8w/edit?usp=sharing">slides</a> | 
+ <a href="https://drive.google.com/file/d/1VSYOahhtMg0w-PlBwNv--ePezgpGOYoU/view?usp=sharing">vídeo</a>) e
+funções anônimas (lambda)
+(<a href="https://docs.google.com/presentation/d/127bdelIdlXGHR8tgfBUyL8sadVLEK0aB_wVCMkVhlTs/edit?usp=sharing">slides</a> | 
+ <a href="https://drive.google.com/file/d/1a3Ag7C7jNRaaaK2gp8DM8MYbTAMoWxd-/view?usp=sharing">vídeo</a>). 
+ 
+ 
 </li>
 <li>
- Segunda prática com Haskell.
+ <a href="praticas/haskell/haskell02">Segunda prática com Haskell</a>.
 </li>
 </ul>
 </td>
