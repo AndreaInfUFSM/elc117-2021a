@@ -110,7 +110,10 @@ funções anônimas (lambda)
 <td>
 <ul>
 <li>
-Programação funcional: geração de listas e list comprehension.
+Programação funcional: 
+geração de listas (<a href="https://docs.google.com/presentation/d/1xht55jFNNFs3Yjc0NyhSWBQJXPjXbuvNsuZ_PaZjIG0/edit?usp=sharing">slides</a>) e 
+list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDMh_pd2-U_8SEojk2167DbLAVsLtKncDi8/edit?usp=sharing">slides</a>)
+.
 </li>
 <li>
  Terceira prática com Haskell.
