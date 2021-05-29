@@ -116,7 +116,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 .
 </li>
 <li>
- Terceira prática com Haskell.
+ <a href="praticas/haskell/haskell03">Terceira prática com Haskell</a>.
 </li>
 </ul>
 </td>
