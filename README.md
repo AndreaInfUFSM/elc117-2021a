@@ -111,7 +111,7 @@ funções anônimas (lambda)
 <ul>
 <li>
 Programação funcional: 
-geração de listas (<a href="https://docs.google.com/presentation/d/1xht55jFNNFs3Yjc0NyhSWBQJXPjXbuvNsuZ_PaZjIG0/edit?usp=sharing">slides</a>) e 
+geração de listas (<a href="https://docs.google.com/presentation/d/1xht55jFNNFs3Yjc0NyhSWBQJXPjXbuvNsuZ_PaZjIG0/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1_EVraDbjHe1wCTm-ClYs0EB_5W_A5_zz/view?usp=sharing">vídeo</a>) e 
 list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDMh_pd2-U_8SEojk2167DbLAVsLtKncDi8/edit?usp=sharing">slides</a>)
 .
 </li>
