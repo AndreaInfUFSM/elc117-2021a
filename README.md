@@ -180,7 +180,7 @@ Programação funcional: condicionais e recursividade.
 Revisão de programação funcional.
 </li>
 <li>
- Entrega de trabalho de programação em Haskell.
+ Entrega de <a href="trabalhos/t1">trabalho de programação em Haskell</a>.
 </li>
 </ul>
 </td>
