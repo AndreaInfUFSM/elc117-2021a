@@ -64,7 +64,7 @@ Entregue todos os exercícios abaixo no arquivo `haskell04.hs`, que já está cr
 3. Resolva o exercício anterior com função de alta ordem, sem usar list comprehension. O novo nome da função será `classifIdosos'`.
 
 
-4. Suponha que uma cor seja representada por uma tupla `(Int,Int,Int)`, contendo valores (R=red,G=Green,B=blue). Considerando disso, crie uma função `strColor :: (Int,Int,Int) -> String` que receba uma tupla representando uma cor (R=red,G=Green,B=blue) e retorne uma string no formato "rgb(R,G,B)". Por exemplo:
+4. Suponha que uma cor seja representada por uma tupla `(Int,Int,Int)`, contendo valores (R=red,G=Green,B=blue). Considerando isso, crie uma função `strColor :: (Int,Int,Int) -> String` que receba uma tupla representando uma cor (R=red,G=Green,B=blue) e retorne uma string no formato "rgb(R,G,B)". Por exemplo:
    ```
    > strColor (90,0,35)
    "rgb(90,0,35)"
