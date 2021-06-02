@@ -70,7 +70,7 @@ Entregue todos os exercícios abaixo no arquivo `haskell04.hs`, que já está cr
    ```
 
 
-5. Suponha que um círculo seja representado por uma tupla `(Int,Int,Int)`, contendo respectivamente as coordenadas x e y de seu centro, seguidas de seu raio. Considerando isso, crie uma função `genCircs :: Int -> (Int,Int) -> Int -> [(Int,Int)]` que receba um número N, um ponto (cx,cy) e um raio R, e gere uma sequência de N círculos de raio R alinhados horizontalmente. Você pode decidir qual será a distância entre eles. Por exemplo:
+5. Suponha que um círculo seja representado por uma tupla `(Int,Int,Int)`, contendo respectivamente as coordenadas x e y de seu centro, seguidas de seu raio. Considerando isso, crie uma função `genCircs :: Int -> (Int,Int) -> Int -> [(Int,Int)]` que receba um número N, um ponto (cx,cy) e um raio R, e gere uma sequência de N círculos de raio R alinhados horizontalmente com um primeiro círculo centrado em (cx,cy). Você pode decidir qual será a distância entre eles. Por exemplo:
    ```
    > genCircs 5 (10,10) 2
    [(10,10,2),(14,10,2),(18,10,2),(22,10,2),(26,10,2)]
