@@ -56,7 +56,7 @@ Entregue todos os exercícios abaixo no arquivo `haskell04.hs`, que já está cr
 
 2. Usando *list comprehension*, crie uma função `classifIdosos :: [(String,Int)] -> [(String,Int,String)]` que receba uma lista de tuplas contendo nome e idade, e retorne uma lista de tuplas com nome, idade e o código da faixa correspondente (faixaIdoso). Por exemplo:
    ```
-   > classifIdoso [("joao",65), ("maria", 64)]
+   > classifIdosos [("joao",65), ("maria", 64)]
    [("joao",65,"IDO69"),("maria",64,"IDO64")]
    ```   
 
