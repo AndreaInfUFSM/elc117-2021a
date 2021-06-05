@@ -145,7 +145,7 @@ Programação funcional: geração de listas e list comprehension (material das 
 <td>
 <ul>
 <li>
-Programação funcional: uso de let/in, where e I/O.
+Programação funcional: uso de let/in, where e I/O  (<a href="https://docs.google.com/presentation/d/19RYxn-5027UPJQ-kEYTXmbC84NSXGx0e2vwnNmH64Lc/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1848dskEKgEWX9_GG_RAs2cYI4CAb2iNX/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  Quinta prática com Haskell.
