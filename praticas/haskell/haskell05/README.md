@@ -32,9 +32,9 @@ Lembre sempre de fazer **commit e push** para que seus exercícios sejam enviado
 Entregue os exercícios abaix no arquivo `haskell05.hs`. Você deverá criar este arquivo no repositório de entrega.
 
 
-1. O Índice de Massa Corporal (IMC) é dado pelo peso dividido pela altura ao quadrado. Dependendo do valor resultante, um indivído adulto pode ser considerado abaixo do peso ideal (menor ou igual a 18.5), acima do peso ideal (maior ou igual a 30) ou dentro do peso normal (faixa intermediária). Sabendo disso, crie uma função `bmi :: [Float] -> [Float] -> String` que receba peso e altura e retorne um destes valores: "ABAIXO", "NORMAL" ou "ACIMA", dependendo do IMC calculado. Use `let..in` para declarar o cálculo do valor do IMC e aproveitá-lo em cada condição testada.
+1. O Índice de Massa Corporal (IMC) é dado pelo peso dividido pela altura ao quadrado. Dependendo do valor resultante, um indivído adulto pode ser considerado abaixo do peso ideal (menor ou igual a 18.5), acima do peso ideal (maior ou igual a 30) ou dentro do peso normal (faixa intermediária). Sabendo disso, crie uma função `bmi :: Float -> Float -> String` que receba peso e altura e retorne um destes valores: "ABAIXO", "NORMAL" ou "ACIMA", dependendo do IMC calculado. Use `let..in` para declarar o cálculo do valor do IMC e aproveitá-lo em cada condição testada.
 
-2. Resolva o exercício anterior usando `where`. A assinatura da nova função será `bmi' :: [Float] -> [Float] -> String`.
+2. Resolva o exercício anterior usando `where`. A assinatura da nova função será `bmi' :: Float -> Float -> String`.
 
 
 3. O exemplo de validação de CPF mostrado nos slides/vídeo tem 3 funções: uma que faz I/O e outras 2 que tratam do cálculo do dígito verificador. A função `cpfValid` usa `let..in` e a função `cpfDV` usa `where`. Reescreva estas 2 funções, trocando `let..in` por `where` e vice-versa.
