@@ -161,7 +161,7 @@ Programação funcional: uso de let/in, where e I/O  (<a href="https://docs.goog
 <td>
 <ul>
 <li>
-Programação funcional: condicionais e recursividade.
+Programação funcional: condicionais, recursividade e pattern matching (<a href="https://docs.google.com/presentation/d/1Y_w9HEL2SDlXXsZ_indKwZN1YxNeKRVrhRo8ERYt2pk/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1Z7BBiljHa3ep4dfJ_791nm2KdZjfowuL/view?usp=sharing">vídeo</a>). Mais exemplos (<a href="https://docs.google.com/presentation/d/1yQnL00pN5V2iyCw0SuFR3D57g8jPuRQQj7uD-HMEsCY/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1YQHyMcDBqHMvdT3Y5laC_Rz44lO3V8LF/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  Sexta prática com Haskell.
