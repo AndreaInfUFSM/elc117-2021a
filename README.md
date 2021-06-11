@@ -179,9 +179,7 @@ Programação funcional: condicionais, recursividade e pattern matching (<a href
 <li>
 Revisão de programação funcional.
 </li>
-<li>
- Entrega de <a href="trabalhos/t1">trabalho de programação em Haskell</a>.
-</li>
+
 </ul>
 </td>
 </tr>
@@ -192,6 +190,9 @@ Revisão de programação funcional.
 <td>Qua</td>
 <td>
 <ul>
+ <li>
+ Entrega de <a href="trabalhos/t1">trabalho de programação em Haskell</a> (até o meio-dia).
+</li>
 <li>
 Introdução à programação lógica.
 </li>
@@ -548,7 +549,7 @@ Desenvolvimento de jogo com framework orientado a objetos.
 
  - Primeiro bimestre  
    - Práticas de Haskell e Prolog entregues no GitHub (30%)  
-   - [Trabalho de programação funcional em Haskell](trabalhos/t1) (40%) - 14/06 
+   - [Trabalho de programação funcional em Haskell](trabalhos/t1) (40%) - ~14/06~ 16/06
    - Produção de vídeo 1 (15%) - 05/07  
    - Participação (15%)
  - Segundo bimestre  
