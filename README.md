@@ -177,7 +177,7 @@ Programação funcional: condicionais, recursividade e pattern matching (<a href
 <td>
 <ul>
 <li>
-Revisão de programação funcional.
+<a href="praticas/haskell/haskell07">Prática de revisão com Haskell</a> ou continuação do desenvolvimento do trabalho.
 </li>
 
 </ul>
