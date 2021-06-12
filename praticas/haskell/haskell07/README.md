@@ -76,7 +76,7 @@ Você agora vai modificar o programa `simplebarcode.hs`, acrescentando algumas f
    [('0',0),('1',1),('0',2),('1',3),('0',4),('1',5)]
    ```
 
-3. Usando list comprehension, defina uma função `altBarList :: String -> Int -> [((Int,Int),(Int,Int))]` que receba uma string com caracteres '0' ou '1' e um valor para o `gap`. Essa função deverá chamar as funções `bar` ou `flipbar`, respectivamente para caracter '0' ou '1', produzindo uma lista com coordenadas de barras, considerando a posição de cada bit na string (a função `bitPos` será útil aqui). Exemplo de uso: 
+3. Usando *list comprehension*, defina uma função `altBarList :: String -> Int -> [((Int,Int),(Int,Int))]` que receba uma string com caracteres '0' ou '1' e um valor para o `gap`. Essa função deverá chamar as funções `bar` ou `flipbar`, respectivamente para um caracter '0' ou '1'. O resultado da função será uma lista com coordenadas de barras, considerando a posição de cada bit na string (a função `bitPos` será útil aqui). Exemplo de uso: 
    ```
    > altBarList "0101" 2
    [((0,0),(2,100)),((4,0),(2,100)),((4,0),(6,100)),((8,0),(6,100))]
