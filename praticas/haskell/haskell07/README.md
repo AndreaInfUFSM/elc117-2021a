@@ -26,7 +26,7 @@ Esta prática supõe que você já tenha feito as práticas anteriores.
 ## Repositório :envelope_with_arrow:
 
 
-Clique aqui para criar seu repositório para esta prática de Haskell: https://classroom.github.com/a/AM4Isv1R
+Clique aqui para criar seu repositório para esta prática de Haskell: https://classroom.github.com/a/AM4Isv1R  
 Neste repositório você encontrará os arquivos para a prática.
 
 **Atenção**: Esta prática não é obrigatória e não será contabilizada para fins de avaliação. É recomendada para quem fez todas as práticas anteriores e já está com o trabalho bem encaminhado.
