@@ -89,9 +89,9 @@ Você agora vai modificar o programa `simplebarcode.hs`, acrescentando algumas f
 
 ## Outro exemplo
 
-Para quem tiver curiosidade de ver um gerador de código de barra "real" em Haskell, este repositório também contém o programa `ean13barcode.hs`. Este programa trabalha com as especificações de códigos de barra no padrão EAN-13, muito usado na indústria e comércio para identificar produtos em geral. 
+Para quem tiver curiosidade de ver um gerador de código de barra "real" em Haskell, o repositório também contém o programa `ean13barcode.hs`. Este programa trabalha com as especificações de códigos de barra no padrão EAN-13, muito usado na indústria e comércio para identificar produtos em geral. 
 
-O código em `ean13barcode.hs` usa recursos básicos de Haskell que vimos na disciplina. A dificuldade maior está em entender a codificação EAN-13, que tem alguns elementos fixos e outros variáveis (isso explica alguns valores hard-coded no programa).
+O código em `ean13barcode.hs` usa recursos básicos de Haskell que vimos na disciplina. A dificuldade maior está em entender a codificação EAN-13, que tem alguns elementos variáveis e outros fixo (isso explica alguns valores hard-coded no programa).
 
 Para executar o programa e gerar o código de barras para um produto especificado no código, execute no Shell:
 ```
