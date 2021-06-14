@@ -1,5 +1,6 @@
 # Prática: Programação funcional em Haskell
 
+Atenção: Esta prática não é obrigatória e não será contabilizada para fins de avaliação. É recomendada para quem fez todas as práticas anteriores e já está com o trabalho bem encaminhado.
 
 ## Objetivos :dart:
 
