@@ -136,12 +136,12 @@ Para outras práticas, você pode continuar usando o SWISH ou fazer download do 
    
 10. Usando lista em Prolog, crie um predicado `isVowel(X)` que verifique se um dado símbolo X é uma vogal. Dica: você vai precisar de uma lista de vogais possíveis: `[a,e,i,o,u]`. Exemplo de uso:
 
-   ```prolog
-   ?- isVowel(a).
-   true.
-   ?- isVowel(b).
-   false.
-   ```
+    ```prolog
+    ?- isVowel(a).
+    true.
+    ?- isVowel(b).
+    false.
+    ```
 
 ## Entrega
 Esta prática não precisa ser entregue, mas deve ser feita o mais rápido possível, pois as práticas seguintes dependem dela.
