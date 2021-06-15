@@ -58,7 +58,7 @@ Para outras práticas, você pode continuar usando o SWISH ou fazer download do 
    ?- gaucho(andre).
    ?- brasileiro(X).
    ```
-   Obs.: Quando a resposta estiver acompanhada de botões, clique em "Next" no SWISH para ver as próximas. Se estiver usando o SWI-Prolog localmente, e a resposta não tiver um ponto no final, tecle ";" após cada resposta para descobrir se existem outras, ou tecle "Enter" (ou ".") após a primeira resposta se quiser continuar sem procurar outras.
+   Obs.: Quando a resposta estiver acompanhada de botões, clique em "Next" no SWISH para ver as próximas. Se estiver usando o SWI-Prolog localmente e a resposta não tiver um ponto no final, tecle ";" após cada resposta para descobrir se existem outras, ou tecle "Enter" (ou ".") após a primeira resposta se quiser continuar sem procurar outras.
    
 2. Agora você vai acrescentar fatos ao programa, seguindo o formato dos predicados já definidos (`nasceu_em`, `idade`). Expresse as seguintes afirmações em um ou mais **fatos** Prolog (coloque cada fato antes do primeiro que usar o mesmo predicado):
 
