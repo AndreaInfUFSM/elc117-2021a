@@ -8,7 +8,7 @@ Nesta aula, você vai ter um primeiro contato com fatos, regras, consultas em Pr
 
 ## Pré-Requisitos
 
-Antes de fazer esta prática, assista àss aulas:
+Antes de fazer esta prática, assista às aulas:
 - Introdução à programação lógica (<a href="https://docs.google.com/presentation/d/1ArYL8yUBFGEGstNHiOxxrwH3NOc8avOwPgr2WNaXsjc/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/14hIn_87Q8J-qpH_kHTHTc2IIu6KO37ln/view?usp=sharing">vídeo</a>) 
 - Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (<a href="https://docs.google.com/presentation/d/1b-8KJy_nxfbzCt4UgX2snaMkyoVk0VjW0AT2oV9VN0I/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1O0G1n3Eson0d4KqRk9JkZKHnRHiobplv/view?usp=sharing">vídeo</a>).
 
