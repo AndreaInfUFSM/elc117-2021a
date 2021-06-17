@@ -6,10 +6,10 @@
 Linguagens de programação são ferramentas poderosas na mão de pessoas que conseguem tirar o melhor proveito delas. Praticar programação para resolver problemas é essencial para isso, mas conhecer conceitos que se aplicam em diferentes linguagens também ajuda a navegar nas águas agitadas das tecnologias da área :smile:. Neste trabalho, vamos explorar esse universo um pouco mais, para além da teoria e prática já vistas.
 
 
-# Objetivo
+## Objetivo
 Produzir um vídeo sobre um conceito presente em uma linguagem de programação funcional ou lógica, à sua escolha, e explicar um exemplo de código que ilustre o conceito, sem sobreposição com o que é abordado nas aulas.
 
-# Desenvolvimento
+## Desenvolvimento
 - Este trabalho deverá, preferencialmente, ser feito **em duplas**.
 
 - Os conceitos deverão ter alguma relação com os paradigmas de programação funcional e/ou lógico, pois é isso que estamos estudando :-)
