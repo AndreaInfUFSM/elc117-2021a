@@ -550,12 +550,12 @@ Desenvolvimento de jogo com framework orientado a objetos.
  - Primeiro bimestre  
    - Práticas de Haskell e Prolog entregues no GitHub (30%)  
    - [Trabalho de programação funcional em Haskell](trabalhos/t1) (40%) - ~14/06~ 16/06, até o meio-dia
-   - Produção de vídeo 1 (15%) - 05/07  
+   - [Produção de vídeo](trabalhos/t2) (15%) - 05/07  
    - Participação (15%)
  - Segundo bimestre  
    - Práticas de Java entregues no GitHub (20%)  
    - Desenvolvimento de jogo com framework orientado a objetos (50%) - 18/08 e 30/08
-   - Produção de vídeo 2 (15%) - 04/08 
+   - Produção de vídeo (15%) - 04/08 
    - Participação (15%)
  - Avaliação final (exame): 01/09/2021  
 
