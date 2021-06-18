@@ -216,7 +216,7 @@ Introdução à programação lógica (<a href="https://docs.google.com/presenta
 Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.
 </li>
 <li>
- Segunda prática com Prolog.
+ <a href="praticas/prolog/prolog02">Segunda prática com Prolog</a>.
 </li>
 </ul>
 </td>
