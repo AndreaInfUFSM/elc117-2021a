@@ -27,7 +27,7 @@ Clique aqui para criar seu repositório para as entregas de Prolog: https://clas
    dados(joao, 70, 170).
    imc(P, I) :- dados(P, Peso, Altura), I is Peso^2/Altura.
    ```
-   Responda: Qual será a resposta para a consulta `?- imc(joana,I`?
+   Responda: Qual será a resposta para a consulta `?- imc(joana,I)`?
 
 2. Nas regras abaixo, `L` representa uma lista:
    ```prolog
