@@ -31,7 +31,7 @@ Pergunta-se: QUEM TEM UM PEIXE?"
 
 ## Solução em Prolog
 
-- Veja [aqui](resolve-charada-einstein.pl) uma solução para este problema em linguagem Prolog.
+- Veja [aqui](resolve-charada-einstein.pl) uma solução para este problema em linguagem Prolog. Não entendeu o código? Veja uma explicação neste [vídeo](https://drive.google.com/file/d/14N3onrTTdW6ahyLcBCVtTiOJd9iyZxsU/view?usp=sharing).
 
 - Carregue o programa no interpretador Prolog.
 
