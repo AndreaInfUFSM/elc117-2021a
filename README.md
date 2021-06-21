@@ -229,7 +229,7 @@ Programação lógica em Prolog: consultas e regras, listas e problemas de lógi
 <td>
 <ul>
 <li>
-Programação lógica em Prolog: processo de execução de programas Prolog, execução passo-a-passo.
+Programação lógica em Prolog: listas, recursão, predicados recursivos (<a href="https://docs.google.com/presentation/d/1GwioxL7tPM4S5vdg5Mw6XzC2jRaGsWYWary00-1A9Nk/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1Q3h1XK5GZGS8l8RbShw9Rr2OSt5Stjsk/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  Terceira prática com Prolog.
@@ -261,7 +261,8 @@ Programação lógica em Prolog: exemplo de programa que simula raciocínio dedu
 <td>
 <ul>
 <li>
-Programação lógica em Prolog: listas, recursão, definindo predicados recursivos.
+
+Programação lógica em Prolog: processo de execução de programas Prolog, execução passo-a-passo.
 </li>
 <li>
  Quinta prática com Prolog.
