@@ -106,4 +106,4 @@ Para executar o programa, carregue-o no SWI-Prolog e digite a seguinte consulta 
 ```
 ?- go.
 ```
-
+Estude o código do programa e identifique os recursos de Prolog que você já conhece e aqueles que ainda não foram vistos.
