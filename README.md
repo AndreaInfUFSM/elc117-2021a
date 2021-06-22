@@ -232,7 +232,7 @@ Programação lógica em Prolog: consultas e regras, listas e problemas de lógi
 Programação lógica em Prolog: listas, recursão, predicados recursivos (<a href="https://docs.google.com/presentation/d/1GwioxL7tPM4S5vdg5Mw6XzC2jRaGsWYWary00-1A9Nk/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1Q3h1XK5GZGS8l8RbShw9Rr2OSt5Stjsk/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Terceira prática com Prolog.
+ <a href="praticas/prolog/prolog03">Terceira prática com Prolog</a>.
 </li>
 </ul>
 </td>
