@@ -245,10 +245,11 @@ Programação lógica em Prolog: listas, recursão, predicados recursivos (<a hr
 <td>
 <ul>
 <li>
-Programação lógica em Prolog: exemplo de programa que simula raciocínio dedutivo.
+Programação lógica em Prolog: listas, recursão, problemas de lógica e exemplos de programas.
 </li>
 <li>
- Quarta prática com Prolog.
+ <a href="praticas/prolog/prolog04">Quarta prática com Prolog</a>.
+
 </li>
 </ul>
 </td>
