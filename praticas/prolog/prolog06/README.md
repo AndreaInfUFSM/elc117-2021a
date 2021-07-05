@@ -7,7 +7,7 @@ Entregue esta prática num arquivo `prolog06-misterio.pl`, dentro do repositóri
 
 Esta prática deverá ser entregue até as 12h de quarta-feira, 07/07/2021.
 
-Se não conseguir resolver, entregue suas tentativas. Não caia na tentação de copiar a solução de colegas, porque: (a) Isso é um meio fraudulento de tentar aprovação, conforme o [Código de Ética e Convivência Discente da UFSM](https://www.ufsm.br/pro-reitorias/proplan/codigo-de-etica-e-convivencia-discente-da-universidade-federal-de-santa-maria/) (b) soluções semelhantes são facilmente identificáveis.
+Se não conseguir resolver, entregue suas tentativas. Não caia na tentação de copiar a solução de colegas, porque (a) isso seria um meio fraudulento, conforme o [Código de Ética e Convivência Discente da UFSM](https://www.ufsm.br/pro-reitorias/proplan/codigo-de-etica-e-convivencia-discente-da-universidade-federal-de-santa-maria/) e (b) a prática ajuda você a progredir, mesmo que não encontre a solução!
 
 
 
