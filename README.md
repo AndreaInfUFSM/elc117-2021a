@@ -278,11 +278,9 @@ Programação lógica em Prolog: processo de execução de programas Prolog, exe
 <td>Seg</td>
 <td>
 <ul>
+
 <li>
-Programação lógica: controle da execução de programas em Prolog.
-</li>
-<li>
- Sexta prática com Prolog.
+ <a href="praticas/prolog/prolog06">Sexta prática com Prolog</a>.
 </li>
 <li>
  Entrega de trabalho de produção de vídeo.
