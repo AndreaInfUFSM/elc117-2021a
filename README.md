@@ -296,10 +296,10 @@ Programação lógica em Prolog: processo de execução de programas Prolog, exe
 <td>
 <ul>
 <li>
-Programação orientada a objetos.
+Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1FRLzNgrtbkuuKOaE_CFLHqQuTTjGaPxQe5GGGxvcpW0/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1dnDieXgyekAKPDXaxaawu6rSqKlT6HWX/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Primeira prática com Java.
+ <a href="praticas/java/java01">Primeira prática com Java</a>.
 </li>
 </ul>
 </td>
@@ -312,7 +312,7 @@ Programação orientada a objetos.
 <td>
 <ul>
 <li>
-Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores.
+Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1SEEgRXCcHEwH5OBfNwj2Uc4e3_XrKTm17Ht_jIox3Dw/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/139fVzreMftYpkzizOavIdJSBXtmDBOQk/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  Segunda prática com Java.
