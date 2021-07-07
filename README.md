@@ -15,7 +15,7 @@ Plataformas: Discord e GitHub
  - Disciplina teórico-prática, com atividades síncronas e assíncronas. 
  - Usaremos a estratégia de "flipped classroom", em que vocês consultam o material indicado antes da aula e usamos os encontros síncronos para resolver dúvidas e fazer exercícios práticos.
  - O material teórico de cada aula será disponibilizado com antecedência em formatos variados (slides, vídeos, programas, textos, etc.).
- - Todo o material da disciplina estará no GitHub e as entregas de exercícios e trabalhos também serão no GitHub. 
+ - Todo o material da disciplina estará no GitHub e as entregas de exercícios be trabalhos também serão no GitHub. 
  - Usaremos Discord para interação síncrona/assíncrona por chat/áudio/vídeo. 
 
  <!--
@@ -296,7 +296,7 @@ Programação lógica em Prolog: processo de execução de programas Prolog, exe
 <td>
 <ul>
 <li>
-Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1FRLzNgrtbkuuKOaE_CFLHqQuTTjGaPxQe5GGGxvcpW0/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1dnDieXgyekAKPDXaxaawu6rSqKlT6HWX/view?usp=sharing">vídeo</a>).
+Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1FRLzNgrtbkuuKOaE_CFLHqQuTTjGaPxQe5GGGxvcpW0/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/139fVzreMftYpkzizOavIdJSBXtmDBOQk/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  <a href="praticas/java/java01">Primeira prática com Java</a>.
@@ -312,7 +312,7 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 <td>
 <ul>
 <li>
-Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1SEEgRXCcHEwH5OBfNwj2Uc4e3_XrKTm17Ht_jIox3Dw/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/139fVzreMftYpkzizOavIdJSBXtmDBOQk/view?usp=sharing">vídeo</a>).
+Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1SEEgRXCcHEwH5OBfNwj2Uc4e3_XrKTm17Ht_jIox3Dw/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1dnDieXgyekAKPDXaxaawu6rSqKlT6HWX/view?usp=sharing">vídeo</a>).
 </li>
 <li>
  Segunda prática com Java.
