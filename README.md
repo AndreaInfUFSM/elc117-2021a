@@ -580,26 +580,5 @@ Desenvolvimento de jogo com framework orientado a objetos.
 
 
 
-## Slides
-
-Disponíveis na pasta [slides](slides). 
-
-## Práticas
-
-Disponíveis na pasta [praticas](praticas). 
-
-
-## Trabalhos
-
-Disponíveis na pasta [trabalhos](trabalhos).
-
-
- 1. [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
- 2. [Mais programação funcional em Haskell](trabalhos/t2) (entrega até segunda, 2/4/2018, 23:59)
- 3. [Programação lógica em Prolog](trabalhos/t3) (entrega até segunda, 16/4/2018, 23:59)
- 4. [Resolvendo problemas da OBI em Prolog](trabalhos/t4) (entrega até segunda, 30/04/2018, 23:59)
- 5. [Editor de grafos com JavaFX](trabalhos/t5) (entrega até segunda, 04/06/2018, 23:59)
- 6. [Planarity puzzle com JavaFX](trabalhos/t6) (entrega até terça, 12/06/2018, 23:59)
- 7. [Dashboard para monitoramento de frota de ônibus urbanos](trabalhos/t7) (entrega até domingo, 01/07/2018, 23:59)
 -->
 
