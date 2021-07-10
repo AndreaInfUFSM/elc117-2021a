@@ -315,7 +315,7 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1SEEgRXCcHEwH5OBfNwj2Uc4e3_XrKTm17Ht_jIox3Dw/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1dnDieXgyekAKPDXaxaawu6rSqKlT6HWX/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Segunda prática com Java.
+ <a href="praticas/java/java02">Segunda prática com Java</a>.
 </li>
 </ul>
 </td>
