@@ -85,7 +85,7 @@ Entregue esta parte numa pasta nomeada `point` dentro do seu repositório de ent
 
 1. Em um arquivo `Point.java`, crie uma classe denominada ``Point``, que armazene as coordenadas ``(x,y)`` de um ponto num plano. A coordenada default para qualquer ponto deve ser ``(0.0,0.0)``. Além do construtor, esta classe deve conter:
 
-   - um método que desloque as coordenadas de um ponto (x,y) para as coordenadas (x+dx,x+dy), sendo dx e dy argumentos do método
+   - um método que desloque as coordenadas de um ponto (x,y) para as coordenadas (x+dx,y+dy), sendo dx e dy argumentos do método
 
    - um método que calcule a distância entre 2 pontos (x1,y1) e (x2,y2) segundo o teorema de Pitágoras: 
      ```
