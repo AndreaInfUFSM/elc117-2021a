@@ -9,7 +9,7 @@ Antes de fazer os exercícios, consulte o vídeo sobre esses conceitos (também 
 
 Esta prática vai ser entregue em um repositório específico no GitHub Classroom. Clique [aqui](https://classroom.github.com/a/jg7F15Ve) para criá-lo. Este repositório não vai ser usado nas práticas seguintes.
 
-Dentro desse repositório, você vai organizar seus arquivos em pastas, conforme as orientações em cada parte da prática. Serão 3 pastas no total: `points`, `associations` e `aggregation`. Siga sempre os padrões de nomes de pastas e arquivos, pois do contrário sua prática não será contabilizada na avaliação.
+Dentro desse repositório, você vai organizar seus arquivos em pastas, conforme as orientações em cada parte da prática. Serão 3 pastas no total: `point`, `association` e `aggregation`. Siga sempre os padrões de nomes de pastas e arquivos, pois do contrário sua prática não será contabilizada na avaliação.
 
 
 
@@ -101,7 +101,7 @@ Entregue esta parte numa pasta nomeada `point` dentro do seu repositório de ent
 
 ## Associações entre classes
 
-Entregue esta parte numa pasta nomeada `associations` dentro do seu repositório de entrega.
+Entregue esta parte numa pasta nomeada `association` dentro do seu repositório de entrega.
 
 No "mundo real", programas orientados a objetos têm muitas classes e elas se relacionam de diferentes formas. Em https://www.geeksforgeeks.org/association-composition-aggregation-java/, você encontra alguns tipos de relacionamento entre classes, com explicações e exemplos de código. A maior parte dos códigos usa recursos que você já deve entender, mas com algumas novidades em Java.
 
