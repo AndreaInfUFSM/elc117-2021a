@@ -328,10 +328,11 @@ Programação orientada a objetos: introdução, conceitos e exemplos de encapsu
 <td>
 <ul>
 <li>
-Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList.
+Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList. Veja <a href="https://docs.google.com/presentation/d/1fdbKfM4GmvfZxQVXi_5fBL7HetkdCx74z-Ih0vjmQZw/edit?usp=sharing">slides</a> sobre uso de static.
 </li>
 <li>
- Terceira prática com Java.
+ <a href="praticas/java/java03">Terceira prática com Java</a>.
+
 </li>
 </ul>
 </td>
