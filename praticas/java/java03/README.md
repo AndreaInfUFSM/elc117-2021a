@@ -22,7 +22,7 @@ Dentro desse repositório, você vai entregar somente um arquivo, cujo nome voc�
 
 Esta parte da prática não precisa ser entregue, mas é **muito importante** que seja realizada. Os exercícios seguintes vão assumir que você fez esta parte.
 
-1. Baixe o programa [User.java](User.java).
+1. Baixe o programa [User.java](src/User.java).
 
 2. Você consegue deduzir qual será a saída do método `main` do programa sem executá-lo? Pense antes e depois execute o programa para conferir.
 
