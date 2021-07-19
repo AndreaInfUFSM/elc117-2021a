@@ -345,10 +345,10 @@ Programação orientada a objetos: classes, objetos, métodos, atributos, uso de
 <td>
 <ul>
 <li>
-Programação orientada a objetos: herança.
+Programação orientada a objetos: herança (<a href="https://docs.google.com/presentation/d/1eoIS3cUegvIWrBMv4b3jqX_OHuIOKZYPz0UfT360aDw/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/19L_NtWJ_TKC7O2oW_PQ2NVDuEgTHzwtX/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Quarta prática com Java (extends, protected, super).
+ <a href="praticas/java/java04">Quarta prática com Java</a>.
 </li>
 </ul>
 </td>
