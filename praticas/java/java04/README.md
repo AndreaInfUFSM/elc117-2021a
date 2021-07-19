@@ -44,12 +44,12 @@ Baixe o programa [Inheritance.java](src/Inheritance.java). Você deverá entrega
 ## Herança na LibGDX
 
 A LibGDX é um framework em Java para criação de jogos 2D para múltiplas plataformas (desktop, web, mobile).
-No tutorial "Getting Started" deste framework, você encontra a descrição de um jogo bem simples, que ilustra tanto o uso da LibGDX como conceitos de POO em Java que você já conhece ou aprenderá mais adiante.
+No tutorial "Getting Started" deste framework, você encontra a [descrição](https://libgdx.com/dev/simple-game/) de um jogo bem simples, que ilustra tanto o uso da LibGDX como conceitos de POO em Java que você já conhece ou aprenderá mais adiante.
 
-Teste o jogo aqui: http://www.inf.ufsm.br/~andrea/libgdx/
+Teste o jogo aqui: http://www.inf.ufsm.br/~andrea/libgdx/ (essa versão do jogo é ligeiramente melhorada, conforme esta outra [descrição](https://libgdx.com/dev/simple-game-extended/)). 
 
 
-Depois abra os 2 arquivos que contêm o código do jogo para desktop:
+Abra os 2 arquivos que contêm o código do jogo simples para desktop:
    - [desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java) 
    - [core/src/com/badlogic/drop/Drop.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/core/src/com/badlogic/drop/Drop.java)
 
