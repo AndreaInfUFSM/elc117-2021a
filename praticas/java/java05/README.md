@@ -62,7 +62,7 @@ Relembrando: Você vai entregar os códigos e também um documento `JAVA05.md`, 
 
 2. Baixe o arquivo [helloimage.zip](src/helloimage.zip) e descompacte-o. No programa [HelloImageSwing.java](src/helloimage/HelloImageSwing.java) há um exemplo simples que mostra uma imagem (ícone) na interface gráfica. Compile e execute este programa. Entregue uma imagem desta etapa. Cuidado para que o arquivo com a imagem esteja acessível ao método `main`.
 
-3. Sua missão agora será alterar o código de [GameItemTestGUI.java](src/polymorphism/GameItemTestGUI.java) para setar e mostrar, na interface gráfica, imagens associadas a cada item na sacola. Entregue uma imagem do resultado e um texto contando sua saga para completar a missão!
+3. Sua missão agora será alterar o código de [GameItemTestGUI.java](src/polymorphism/GameItemTestGUI.java) para setar e mostrar, na interface gráfica, imagens associadas a cada item na sacola. Consulte a documentação de referência do pacote Swing do JDK Java e altere o visual da interface gráfica ao seu gosto! Entregue uma imagem do resultado e um texto contando sua saga para completar a missão!
 
 
 
