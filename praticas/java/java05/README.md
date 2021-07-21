@@ -19,7 +19,7 @@ Você vai entregar os códigos e também um documento `JAVA05.md`, contendo as p
 
 ## Preparação
 
-Esta parte é uma preparação para o exercícios e não precisa constar no documento de entrega. Para começar, baixe o arquivo [polymorphism.zip](src/polymorphism.zip) ou, se você fez fork do repositório da disciplima, sincronize os repositórios seguindo estas [instruções](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) (também possível via [linha de comando](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/).
+Esta parte é uma preparação para o exercícios e não precisa constar no documento de entrega. Para começar, baixe o arquivo [polymorphism.zip](src/polymorphism.zip) ou, se você fez fork do repositório da disciplina, sincronize os repositórios seguindo estas [instruções](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) (também possível via [linha de comando](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/).
 
 Neste código fornecido, há uma hierarquia de classes em Java inspiradas em jogos estilo RPG:
 - [GameItem.java](src/polymorphism/GameItem.java): superclasse que representa itens que podem ser colocados em uma sacola;
