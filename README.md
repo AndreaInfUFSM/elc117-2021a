@@ -434,7 +434,7 @@ Programação concorrente.
 Revisão de programação orientada a objetos e concorrente.
 </li>
 <li>
- Deadline para tema do [trabalho de produção de vídeo](trabalhos/t3).
+ Deadline para tema do <a href="trabalhos/t3">trabalho de produção de vídeo</a>.
 </li>
 </ul>
 </td>
