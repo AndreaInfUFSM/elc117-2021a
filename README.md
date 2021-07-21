@@ -434,7 +434,7 @@ Programação concorrente.
 Revisão de programação orientada a objetos e concorrente.
 </li>
 <li>
- Entrega de trabalho de produção de vídeo.
+ Deadline para tema do [trabalho de produção de vídeo](trabalhos/t3).
 </li>
 </ul>
 </td>
@@ -556,7 +556,7 @@ Desenvolvimento de jogo com framework orientado a objetos.
  - Segundo bimestre  
    - Práticas de Java entregues no GitHub (20%)  
    - Desenvolvimento de jogo com framework orientado a objetos (50%) - 18/08 e 30/08
-   - Produção de vídeo (15%) - 04/08 
+   - [Produção de vídeo](trabalhos/t3) (15%) - 04/08 e 18/08
    - Participação (15%)
  - Avaliação final (exame): 01/09/2021  
 
