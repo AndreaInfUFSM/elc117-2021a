@@ -380,7 +380,7 @@ Programação orientada a objetos: polimorfismo (<a href="https://docs.google.co
 Programação orientada a objetos: classes abstratas e interfaces em Java (<a href="https://docs.google.com/presentation/d/1LvvfEGY9IxSbbnlcLILp-4yZBtSk4W3-ugOvR8CveSs/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1l4p_gTNBkmvi89xO60-ry4s6XZWaPzeb/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Sexta prática com Java.
+ <a href="praticas/java/java06">Sexta prática com Java</a>. 
 </li>
 </ul>
 </td>
