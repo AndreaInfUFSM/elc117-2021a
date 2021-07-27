@@ -393,13 +393,13 @@ Programação orientada a objetos: classes abstratas e interfaces em Java (<a hr
 <td>
 <ul>
 <li>
-Programação concorrente.
+Programação concorrente (<a href="https://docs.google.com/presentation/d/1Ig1RQ8GQ_81eQAR8z9EVH_k_cJ1Azcc-NaWvxRvdSWM/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/12AyYI1cY5pC6Q8M-cQdUhVonH2sey9hJ/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Concorrência em Java.
+ Concorrência em Java (<a href="https://docs.google.com/presentation/d/15hGOb79dudYoU1Q7FTLn2iUNjIWFeddB12QuD2Fy27A/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1gX2Zy6tm9gd02LCtfmXgI6z-iGHknRDk/view?usp=sharing">vídeo</a>).
 </li>
 <li>
- Prática com classe Thread, interface Runnable, métodos run, start e join.
+ <a href="praticas/java/java07">Sétima prática com Java</a>. 
 </li>
 </ul>
 </td>
