@@ -411,14 +411,15 @@ Programação concorrente (<a href="https://docs.google.com/presentation/d/1Ig1R
 <td>Seg</td>
 <td>
 <ul>
+
 <li>
-Programação concorrente.
+ Problemas de programação concorrente: sincronização (<a href="https://docs.google.com/presentation/d/1LZumlaNCOFiLPZZbRJbGnwmxO-qqPAQYpPD7j5iHUX4/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1R4GQbVf_z3b8Rti-SM_ZrjBzI5poQZdD/view?usp=sharing">vídeo</a>).
+
+
+
 </li>
 <li>
- Problemas de programação concorrente: sincronização.
-</li>
-<li>
- Exclusão mútua em Java: prática com synchronized.
+ <a href="praticas/java/java08">Oitava prática com Java</a>. 
 </li>
 </ul>
 </td>
