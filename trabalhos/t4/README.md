@@ -58,13 +58,28 @@ Neste trabalho, você vai criar um jogo de aventura inspirado na vida universit�
 ## Material de apoio
 
 
-## Documentação oficial da LibGDX
+# Documentação oficial da LibGDX
 
+- [Wiki da LibGDX](https://github.com/libgdx/libgdx/wiki)
 - [Configurando o ambiente de desenvolvimento](https://libgdx.com/dev/setup/)  
 - [Trabalhando com imagens 2D](https://github.com/libgdx/libgdx/wiki/Spritebatch%2C-Textureregions%2C-and-Sprites)  
 - [Tratando eventos de teclado/mouse/touch](https://github.com/libgdx/libgdx/wiki/Mouse%2C-Touch-and-Keyboard)  
 
-## Build para Web
+# Tutoriais e outros materiais
+
+- [Lista de tutoriais e exemplos](https://github.com/libgdx/libgdx/wiki/External-tutorials)  
+  Lista sugerida na Wiki da LibGDX
+  
+- [Tutoriais LibGDX no site HappyCoding](https://happycoding.io/tutorials/libgdx/)
+  Vários tutoriais, organizados por assunto
+  
+- [LibGDX Beginner Tutorial](https://www.codeandweb.com/texturepacker/tutorials/libgdx-physics)
+  Tutorial passo-a-passo com screenshots e código
+  
+- [Criando Jogo estilo ZELDA com JAVA e LibGDX](https://www.youtube.com/watch?v=36mvpAn66Dc)  
+  Playlist com vários vídeos em português
+
+# Build/deploy para Web
 
 Projetos em LibGDX podem ser configurados para execução na Web, com tradução do código Java em JavaScript/HTML5 feita via Google Web Toolkit (GWT). Há algumas restrições, mas elas podem ser contornadas e, no geral, o resultado é bom. O ideal é fazer build para Web desde o início do desenvolvimento, para evitar surpresas com incompatibilidades no final. Nesta página há algumas observações sobre isso: https://github.com/libgdx/libgdx/wiki/HTML5-Backend-and-GWT-Specifics
 
@@ -83,7 +98,7 @@ python3 -m http.server 8000
 Depois de testar localmente, você pode copiar o conteúdo da pasta `dist` para um servidor, como o itch.io, por exemplo.
 
   
-## Exemplos de jogos com código-fonte
+# Exemplos de jogos com código-fonte
 
 - [Insect's Life Quest](https://github.com/GabrielStrzal/InsectsLifeQuest)  
   Exemplo de jogo multiplataforma, com várias classes representando entidades do jogo.
