@@ -556,7 +556,7 @@ Desenvolvimento de jogo com framework orientado a objetos.
    - Participação (15%)
  - Segundo bimestre  
    - Práticas de Java entregues no GitHub (20%)  
-   - Desenvolvimento de jogo com framework orientado a objetos (50%) - 18/08 e 30/08
+   - [Desenvolvimento de jogo com framework orientado a objetos](trabalhos/t4)(50%) - 18/08 e 30/08
    - [Produção de vídeo](trabalhos/t3) (15%) - 04/08 e 18/08
    - Participação (15%)
  - Avaliação final (exame): 01/09/2021  
