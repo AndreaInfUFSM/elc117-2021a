@@ -107,7 +107,7 @@ Depois de testar localmente, você pode copiar o conteúdo da pasta `dist` para 
   Exemplo de jogo inspirado na vida universitária. Funciona em desktop.
   
 - [Apex Pigeon - Arcade "Runner" Game](https://github.com/patpatchpatrick/ApexPigeon)  
-  Outro exemplo de jogo multiplataforma.
+  Outro exemplo de jogo multiplataforma. Este tem leaderboard online!
 
 
 
