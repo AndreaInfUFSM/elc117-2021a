@@ -106,6 +106,8 @@ Depois de testar localmente, você pode copiar o conteúdo da pasta `dist` para 
 - [AstonAdventure](https://github.com/hussa94/AstonAdventure)  
   Exemplo de jogo inspirado na vida universitária. Funciona em desktop.
   
+- [Apex Pigeon - Arcade "Runner" Game](https://github.com/patpatchpatrick/ApexPigeon)  
+  Outro exemplo de jogo multiplataforma.
 
 
 
