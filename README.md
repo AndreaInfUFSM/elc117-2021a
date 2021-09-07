@@ -548,8 +548,8 @@ Desenvolvimento de jogo com framework orientado a objetos.
 
 
 ## Avaliações
- - Primeiro bimestre  ([Notas](https://script.google.com/macros/s/AKfycbzmCUPXyHKWF2Gi1dVbCPMxRRasMHNdr7TNbjkien5daQekKdwg8KNpWZ1tc8O5XIE/exec))
-
+ - [Notas finais](https://script.google.com/macros/s/AKfycbyFbCZzlu1Cp1pj44KU9jkRoAjQzNHNlDGiPjV38vW1etdARDnStM5YgATnrw0wME6k/exec)
+ - Primeiro bimestre  
    - Práticas de Haskell e Prolog entregues no GitHub (30%)  
    - [Trabalho de programação funcional em Haskell](trabalhos/t1) (40%) - ~14/06~ 16/06, até o meio-dia
    - [Produção de vídeo](trabalhos/t2) (15%) - 05/07  
